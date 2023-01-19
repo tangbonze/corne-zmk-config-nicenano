@@ -14,7 +14,7 @@
 #define ADJUST  3
 
 / {
-        conditionals_layers {
+        conditional_layers {
                 compatible = "zmk,conditional-layers";
                 tri_layer = {
                         if-layer = <LOWER RAISE>;
