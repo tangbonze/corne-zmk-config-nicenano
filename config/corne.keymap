@@ -16,7 +16,7 @@
 / {
         conditional_layers {
                 compatible = "zmk,conditional-layers";
-                tri_layer = {
+                tri_layer {
                         if-layer = <LOWER RAISE>;
                         then-layer = <ADJUST>;
                 };
