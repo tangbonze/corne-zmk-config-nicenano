@@ -46,7 +46,7 @@
    &kp TAB   &kp Q &kp W &kp E &kp R &kp T   &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSPC
    &kp LCTRL &kp A &kp S &kp D &kp F &kp G   &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
    &kp LSHFT &kp Z &kp X &kp C &kp V &kp B   &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &kp RSHFT
-                  &kp LGUI &mo LOWER &tp LALT SPACE   &tp LC(LS(LA(LGUI))) RET &mo RAISE &kp RALT
+                  &kp LGUI &mo LOWER &kp SPACE   &tp LC(LS(LA(LGUI))) RET &mo RAISE &kp RALT
                         >;
                 };
                 lower_layer {
